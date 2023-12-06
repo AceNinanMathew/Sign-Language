@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Path to your trained model and test image
 model_path = 'best.pt'
-image_path = 'img4.jpg'  # Replace with your image path
+image_path = 'img7.jpg'  # Replace with your image path
 
 # Load the YOLO model
 model = YOLO(model_path)
